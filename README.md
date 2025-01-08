@@ -15,15 +15,17 @@ Also, since the number of patients in the Private Ward is more than that in the 
 - Step 4 : It was observed that in none of the columns errors & empty values were present.
 - Step 5 : Check the columns and their data type and select the data type according to the input data.  
 - Step 6 : Visual filter (Slicer) was added for "Pateint_ID".
-- Step 7: Four card visuals were added to the canvas, representing the Admit Date, Discharge Date, Follow-Up Date, and billing Amount of Patients.
+- Step 7 : Four card visuals were added to the canvas, representing the Admit Date, Discharge Date, Follow-Up Date, and billing Amount of Patients.
 - Step 8 : A bar chart was added to the report design Bed Occupancy & number of patients. 
 - Step 9 : Ratings Visual was used to represent different ratings of doctors.
 - Step 10: A Funnel was used to find the most frequent disease and number of patients admitted to a particular disease.
 - Step 11: A line Chart was used to compare the Billing Amount and Health Insurance Amount.
 
-# Snapshot of Dashboard 
+## Snapshot of Dashboard 
 ![Dashboard_upload](https://github.com/191Srishti/POWER-BI-PROJECT/blob/main/Screenshot%202025.jpg)
 
-# Insights
+## Insights
+- Clinic facilities and medical treatment are up to mark.
+- Private Bed Occupancy is high.
 - 
 
