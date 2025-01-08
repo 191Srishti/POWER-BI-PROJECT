@@ -21,5 +21,5 @@ Also, since the number of patients in the Private Ward is more than that in the 
 - Step 11: A line Chart was used to compare the Billing Amount and Health Insurance Amount.
 
 # Snapshot of Dashboard 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/191Srishti/POWER-BI-PROJECT/blob/main/Screenshot%202025.jpg)
 
