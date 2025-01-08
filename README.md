@@ -24,3 +24,6 @@ Also, since the number of patients in the Private Ward is more than that in the 
 # Snapshot of Dashboard 
 ![Dashboard_upload](https://github.com/191Srishti/POWER-BI-PROJECT/blob/main/Screenshot%202025.jpg)
 
+# Insights
+- 
+
