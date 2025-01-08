@@ -1,5 +1,6 @@
 # S.S Medical Clinic
-### Dashboard Link : 
+### Dashboard Link 
+[Dasboard Link](https://github.com/191Srishti/POWER-BI-PROJECT/blob/main/project%20final.pbix)
 ## Problem Statement
 This dashboard helps the S.S. Medical Clinic understand its performance better. It lets the clinic know if their patients are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these areas. It also lets them know about Bed Occupancy in different wards(Private, General, ICU).
 Thus, since they have identified this problem using this dashboard, they can further work on the factors responsible for these problems.
